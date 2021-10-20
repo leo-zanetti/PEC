@@ -17,7 +17,6 @@
 #include "heltec.h"
 #include "puc.h"
 #include <WiFi.h>
-#include <WiFiManager.h>
 
 //  Definição da frequência utilizada pelo dispositivo (915 MHz) e variáveis do rádio
 #define BAND    915E6
